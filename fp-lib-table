@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "A_Transformer")(type "KiCad")(uri "${KIPRJMOD}/footprints/A_Transformer.pretty")(options "")(descr ""))
+)
